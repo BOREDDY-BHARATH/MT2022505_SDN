@@ -26,7 +26,7 @@ If you haven't installed Git, download and install it from [https://		  git-scm.
 Open a terminal or command prompt.
 Navigate to the directory where you want to store the project.
 Run the following command to clone the repository:
- git clone 
+ git clone https://github.com/BOREDDY-BHARATH/MT2022505_SDN.git
 
 
 3. Open Android Studio:
@@ -45,3 +45,4 @@ After the Gradle sync is complete, you can run the project by clicking the "Run"
 Choose a target device or emulator, and Android Studio will build and run the app.
 
 Github Link to Project
+https://github.com/BOREDDY-BHARATH/MT2022505_SDN.git
